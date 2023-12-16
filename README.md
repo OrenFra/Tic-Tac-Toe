@@ -19,14 +19,14 @@ the one with the highest score. The game is displayed with kivy based GUI.
 You play as the round and the computer plays as the x.
 
 <p align="center">
-  <img src="images/board_game.jpg" alt="Output">
+  <img src="images/board_game.JPG" alt="Output">
 </p>
 
 3. Wait for the computer to play his turn, then continue playing.
 
 
 <p align="center">
-  <img src="images/draw_image.jpg" alt="Output">
+  <img src="images/draw_image.JPG" alt="Output">
 </p>
 
 ## Requirements
