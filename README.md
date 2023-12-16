@@ -13,7 +13,7 @@ the one with the highest score. The game is displayed with kivy based GUI.
 
 
 ## Usage
-1. run "tic_tac_toe.py" file
+1. run "tic_tac_toe.py" file.
 
 2. You have the first turn, press on one of the squares in order to place your tool their.
 You play as the round and the computer plays as the x.
