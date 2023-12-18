@@ -6,17 +6,17 @@ a dictionary by playing many random games and adding their boards to the diction
 boards are added to the dictionary in a string format that uses less memory and makes the
 search in the dictionary faster. Each board is given a score based on RL method of operant 
 conditioning - positive strengthening of the score if the game was won, lower positive
-strengthening if for draw and negative
+strengthening for draw and negative
 strengthening if the game was lost. The file "tic_tac_toe.py" then uses this dictionary 
-in order to play. For each turn, the program searches for all the possible moves and picks
-the one with the highest score. The game is displayed with kivy based GUI.
+in order to play the game with kivy based GUI. For each turn of the computer, the program
+searches for all the possible moves and picks the one with the highest score.
 
 
 ## Usage
-1. run "tic_tac_toe.py" file.
+1. Run "tic_tac_toe.py" file.
 
-2. You have the first turn, press on one of the squares in order to place your tool their.
-You play as the round and the computer plays as the x.
+2. You have the first turn of the game, press on one of the squares in order to place your tool there.
+You play with the cirle tools and the computer plays with the X tools.
 
 <p align="center">
   <img src="images/board_game.JPG" alt="Output">
